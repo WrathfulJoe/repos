@@ -1,3 +1,3 @@
 # repos
 
-Codeinc are the exercise in The C Programming Language
+Codeinc are the exercises in The C Programming Language
